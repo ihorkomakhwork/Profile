@@ -6,5 +6,5 @@
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@komigorchem](https://telegram.me/@komigorchem)</code>
+<code>💬 telegram: [@komigorchem](https://telegram.me/komigorchem)</code>
 <code>📫 [ihorkomakhwork@gmail.com](mailto:ihorkomakhwork@gmail.com)</code>
