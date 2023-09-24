@@ -10,12 +10,16 @@ stack: Node.js, Express, Typescript, Git, GitHub,
 microservices, REST API, integration with(Bitrix24 , Zoom,
 Google Calendar), PostgreSQL.
 
+
+### Monochrome.tech
 #### Monochrome.tech | October 2021 - February 2022
 #### Full-stack js developer
 
 Couple of project in Busines education. Tech stack:
 Node.js, Koa, Git, GitHub, server rendering, PUG, Mongo.
 
+
+### Class attender
 #### Class attender | March 2021 - July 2021
 #### Full-stack js developer
 
