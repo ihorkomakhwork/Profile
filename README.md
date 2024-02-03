@@ -1,5 +1,4 @@
 <code>🎓 Student: KNUTE FIT 4-4</code>
-<code>🎓 Studen: Solvd Node.js Course</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>💼 [Experience](EXPERIENCE.md)</code>
